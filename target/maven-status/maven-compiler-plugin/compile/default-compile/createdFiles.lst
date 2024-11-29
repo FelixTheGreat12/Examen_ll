@@ -1,0 +1,7 @@
+com\upiiz\users\entities\UserEntities.class
+com\upiiz\users\repository\UserRepository.class
+com\upiiz\users\services\UserService.class
+com\upiiz\users\entities\UserEntities$UserEntitiesBuilder.class
+com\upiiz\users\UsersApplication.class
+com\upiiz\users\controllers\UserControllers.class
+com\upiiz\users\config\SecurityConfig.class
